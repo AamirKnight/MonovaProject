@@ -2,24 +2,6 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app), featuring a stylish fashion wardrobe management interface.
 
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## How to Run
-
 ### Snack Link
 You can try the app directly in Expo Snack: [Fashion Wardrobe App](https://snack.expo.dev/@aamir09/monova-)
 
@@ -33,7 +15,7 @@ cd MonovaProject
 npm install
 
 # Start the development server
-npx expo start
+npm run start
 ```
 
 ## What Was Replicated
